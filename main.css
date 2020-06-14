@@ -33,6 +33,7 @@ p{
 
 img{
     width: 100%;
+    border-radius: 8px;
 }
 
 /*End global*/
@@ -126,7 +127,7 @@ li{
 }
 
 .nav-link{
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 5rem;
     padding: 1rem;
 }
@@ -204,7 +205,7 @@ li{
 
 .landing-text h1{
     font-size: 20rem;
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: linear-gradient(to top, #70b3f1, #483cf8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -260,17 +261,13 @@ li{
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover{
-    color: #38a1f3;
-}
-
 .fa-linkedin-in:hover{
     color: #38a1f3;
 }
 
 .fa-instagram:hover{
     color: #38a1f3;
-}
+}  
 /*End about*/
 
 /*Start services*/
