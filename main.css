@@ -326,7 +326,7 @@ li{
 
 .profile-img{
     width: 50rem;
-    flex: 1;
+    /* flex: 1; */
 }
 
 .portfolio-description h1{
